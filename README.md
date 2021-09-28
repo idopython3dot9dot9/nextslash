@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/808032994668576829/813135069661102110/dislash_emb_crop.png" align="left" width="50" title="dislash.py">
+<img src="/dislash_emb_crop.png" align="left" width="50" title="dislash.py">
 <h1>dislash.py</h1>
 
 
