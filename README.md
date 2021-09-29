@@ -1,5 +1,5 @@
-<img src="/dislash_emb_crop.png" align="left" width="50" title="dislash.py">
-<h1>dislash.py</h1>
+<img src="/dislash_emb_crop.png" align="left" width="50" title="nextslash">
+<h1>nextslash</h1>
 
 
 [![Discord](https://discord.com/api/guilds/808030843078836254/embed.png)](https://discord.gg/gJDbCw8aQy)
